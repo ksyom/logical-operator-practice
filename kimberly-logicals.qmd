@@ -1,0 +1,7 @@
+---
+title: "kimberly-logicals"
+format: html
+editor: visual
+---
+
+## a few logical expressions
